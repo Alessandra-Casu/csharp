@@ -1,0 +1,14 @@
+C:\Users\aless\csharp\CicloDoWhile\obj\Debug\net8.0\CicloDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\csharp\CicloDoWhile\obj\Debug\net8.0\CicloDoWhile.AssemblyInfoInputs.cache
+C:\Users\aless\csharp\CicloDoWhile\obj\Debug\net8.0\CicloDoWhile.AssemblyInfo.cs
+C:\Users\aless\csharp\CicloDoWhile\obj\Debug\net8.0\CicloDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\aless\csharp\CicloDoWhile\bin\Debug\net8.0\CicloDoWhile.exe
+C:\Users\aless\csharp\CicloDoWhile\bin\Debug\net8.0\CicloDoWhile.deps.json
+C:\Users\aless\csharp\CicloDoWhile\bin\Debug\net8.0\CicloDoWhile.runtimeconfig.json
+C:\Users\aless\csharp\CicloDoWhile\bin\Debug\net8.0\CicloDoWhile.dll
+C:\Users\aless\csharp\CicloDoWhile\bin\Debug\net8.0\CicloDoWhile.pdb
+C:\Users\aless\csharp\CicloDoWhile\obj\Debug\net8.0\CicloDoWhile.dll
+C:\Users\aless\csharp\CicloDoWhile\obj\Debug\net8.0\refint\CicloDoWhile.dll
+C:\Users\aless\csharp\CicloDoWhile\obj\Debug\net8.0\CicloDoWhile.pdb
+C:\Users\aless\csharp\CicloDoWhile\obj\Debug\net8.0\CicloDoWhile.genruntimeconfig.cache
+C:\Users\aless\csharp\CicloDoWhile\obj\Debug\net8.0\ref\CicloDoWhile.dll

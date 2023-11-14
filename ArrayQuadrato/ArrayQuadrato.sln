@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayQuadrato", "ArrayQuadrato.csproj", "{E356FBB4-A899-49D0-BE78-875948DB6A33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E356FBB4-A899-49D0-BE78-875948DB6A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E356FBB4-A899-49D0-BE78-875948DB6A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E356FBB4-A899-49D0-BE78-875948DB6A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E356FBB4-A899-49D0-BE78-875948DB6A33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B65152D-E4B7-4D4E-BB45-4A703B709C6B}
+	EndGlobalSection
+EndGlobal

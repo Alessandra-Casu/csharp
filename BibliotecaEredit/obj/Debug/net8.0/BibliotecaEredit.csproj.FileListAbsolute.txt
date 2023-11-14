@@ -1,0 +1,14 @@
+C:\Users\aless\csharp\BibliotecaEredit\bin\Debug\net8.0\BibliotecaEredit.exe
+C:\Users\aless\csharp\BibliotecaEredit\bin\Debug\net8.0\BibliotecaEredit.deps.json
+C:\Users\aless\csharp\BibliotecaEredit\bin\Debug\net8.0\BibliotecaEredit.runtimeconfig.json
+C:\Users\aless\csharp\BibliotecaEredit\bin\Debug\net8.0\BibliotecaEredit.dll
+C:\Users\aless\csharp\BibliotecaEredit\bin\Debug\net8.0\BibliotecaEredit.pdb
+C:\Users\aless\csharp\BibliotecaEredit\obj\Debug\net8.0\BibliotecaEredit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\csharp\BibliotecaEredit\obj\Debug\net8.0\BibliotecaEredit.AssemblyInfoInputs.cache
+C:\Users\aless\csharp\BibliotecaEredit\obj\Debug\net8.0\BibliotecaEredit.AssemblyInfo.cs
+C:\Users\aless\csharp\BibliotecaEredit\obj\Debug\net8.0\BibliotecaEredit.csproj.CoreCompileInputs.cache
+C:\Users\aless\csharp\BibliotecaEredit\obj\Debug\net8.0\BibliotecaEredit.dll
+C:\Users\aless\csharp\BibliotecaEredit\obj\Debug\net8.0\refint\BibliotecaEredit.dll
+C:\Users\aless\csharp\BibliotecaEredit\obj\Debug\net8.0\BibliotecaEredit.pdb
+C:\Users\aless\csharp\BibliotecaEredit\obj\Debug\net8.0\BibliotecaEredit.genruntimeconfig.cache
+C:\Users\aless\csharp\BibliotecaEredit\obj\Debug\net8.0\ref\BibliotecaEredit.dll

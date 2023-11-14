@@ -1,0 +1,14 @@
+C:\Users\aless\csharp\ArrayQuadrato\obj\Debug\net8.0\ArrayQuadrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\csharp\ArrayQuadrato\obj\Debug\net8.0\ArrayQuadrato.AssemblyInfoInputs.cache
+C:\Users\aless\csharp\ArrayQuadrato\obj\Debug\net8.0\ArrayQuadrato.AssemblyInfo.cs
+C:\Users\aless\csharp\ArrayQuadrato\obj\Debug\net8.0\ArrayQuadrato.csproj.CoreCompileInputs.cache
+C:\Users\aless\csharp\ArrayQuadrato\bin\Debug\net8.0\ArrayQuadrato.exe
+C:\Users\aless\csharp\ArrayQuadrato\bin\Debug\net8.0\ArrayQuadrato.deps.json
+C:\Users\aless\csharp\ArrayQuadrato\bin\Debug\net8.0\ArrayQuadrato.runtimeconfig.json
+C:\Users\aless\csharp\ArrayQuadrato\bin\Debug\net8.0\ArrayQuadrato.dll
+C:\Users\aless\csharp\ArrayQuadrato\bin\Debug\net8.0\ArrayQuadrato.pdb
+C:\Users\aless\csharp\ArrayQuadrato\obj\Debug\net8.0\ArrayQuadrato.dll
+C:\Users\aless\csharp\ArrayQuadrato\obj\Debug\net8.0\refint\ArrayQuadrato.dll
+C:\Users\aless\csharp\ArrayQuadrato\obj\Debug\net8.0\ArrayQuadrato.pdb
+C:\Users\aless\csharp\ArrayQuadrato\obj\Debug\net8.0\ArrayQuadrato.genruntimeconfig.cache
+C:\Users\aless\csharp\ArrayQuadrato\obj\Debug\net8.0\ref\ArrayQuadrato.dll

@@ -1,0 +1,14 @@
+C:\Users\aless\csharp\Eccezioni\obj\Debug\net8.0\Eccezioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\csharp\Eccezioni\obj\Debug\net8.0\Eccezioni.AssemblyInfoInputs.cache
+C:\Users\aless\csharp\Eccezioni\obj\Debug\net8.0\Eccezioni.AssemblyInfo.cs
+C:\Users\aless\csharp\Eccezioni\obj\Debug\net8.0\Eccezioni.csproj.CoreCompileInputs.cache
+C:\Users\aless\csharp\Eccezioni\bin\Debug\net8.0\Eccezioni.exe
+C:\Users\aless\csharp\Eccezioni\bin\Debug\net8.0\Eccezioni.deps.json
+C:\Users\aless\csharp\Eccezioni\bin\Debug\net8.0\Eccezioni.runtimeconfig.json
+C:\Users\aless\csharp\Eccezioni\bin\Debug\net8.0\Eccezioni.dll
+C:\Users\aless\csharp\Eccezioni\bin\Debug\net8.0\Eccezioni.pdb
+C:\Users\aless\csharp\Eccezioni\obj\Debug\net8.0\Eccezioni.dll
+C:\Users\aless\csharp\Eccezioni\obj\Debug\net8.0\refint\Eccezioni.dll
+C:\Users\aless\csharp\Eccezioni\obj\Debug\net8.0\Eccezioni.pdb
+C:\Users\aless\csharp\Eccezioni\obj\Debug\net8.0\Eccezioni.genruntimeconfig.cache
+C:\Users\aless\csharp\Eccezioni\obj\Debug\net8.0\ref\Eccezioni.dll

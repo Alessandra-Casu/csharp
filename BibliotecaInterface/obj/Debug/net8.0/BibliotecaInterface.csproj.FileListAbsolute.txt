@@ -1,0 +1,14 @@
+C:\Users\aless\csharp\BibliotecaInterface\bin\Debug\net8.0\BibliotecaInterface.exe
+C:\Users\aless\csharp\BibliotecaInterface\bin\Debug\net8.0\BibliotecaInterface.deps.json
+C:\Users\aless\csharp\BibliotecaInterface\bin\Debug\net8.0\BibliotecaInterface.runtimeconfig.json
+C:\Users\aless\csharp\BibliotecaInterface\bin\Debug\net8.0\BibliotecaInterface.dll
+C:\Users\aless\csharp\BibliotecaInterface\bin\Debug\net8.0\BibliotecaInterface.pdb
+C:\Users\aless\csharp\BibliotecaInterface\obj\Debug\net8.0\BibliotecaInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\csharp\BibliotecaInterface\obj\Debug\net8.0\BibliotecaInterface.AssemblyInfoInputs.cache
+C:\Users\aless\csharp\BibliotecaInterface\obj\Debug\net8.0\BibliotecaInterface.AssemblyInfo.cs
+C:\Users\aless\csharp\BibliotecaInterface\obj\Debug\net8.0\BibliotecaInterface.csproj.CoreCompileInputs.cache
+C:\Users\aless\csharp\BibliotecaInterface\obj\Debug\net8.0\BibliotecaInterface.dll
+C:\Users\aless\csharp\BibliotecaInterface\obj\Debug\net8.0\refint\BibliotecaInterface.dll
+C:\Users\aless\csharp\BibliotecaInterface\obj\Debug\net8.0\BibliotecaInterface.pdb
+C:\Users\aless\csharp\BibliotecaInterface\obj\Debug\net8.0\BibliotecaInterface.genruntimeconfig.cache
+C:\Users\aless\csharp\BibliotecaInterface\obj\Debug\net8.0\ref\BibliotecaInterface.dll

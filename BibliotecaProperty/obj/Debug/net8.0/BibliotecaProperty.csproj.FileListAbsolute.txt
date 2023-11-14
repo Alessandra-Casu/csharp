@@ -1,0 +1,14 @@
+C:\Users\aless\csharp\BibliotecaProperty\bin\Debug\net8.0\BibliotecaProperty.exe
+C:\Users\aless\csharp\BibliotecaProperty\bin\Debug\net8.0\BibliotecaProperty.deps.json
+C:\Users\aless\csharp\BibliotecaProperty\bin\Debug\net8.0\BibliotecaProperty.runtimeconfig.json
+C:\Users\aless\csharp\BibliotecaProperty\bin\Debug\net8.0\BibliotecaProperty.dll
+C:\Users\aless\csharp\BibliotecaProperty\bin\Debug\net8.0\BibliotecaProperty.pdb
+C:\Users\aless\csharp\BibliotecaProperty\obj\Debug\net8.0\BibliotecaProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\csharp\BibliotecaProperty\obj\Debug\net8.0\BibliotecaProperty.AssemblyInfoInputs.cache
+C:\Users\aless\csharp\BibliotecaProperty\obj\Debug\net8.0\BibliotecaProperty.AssemblyInfo.cs
+C:\Users\aless\csharp\BibliotecaProperty\obj\Debug\net8.0\BibliotecaProperty.csproj.CoreCompileInputs.cache
+C:\Users\aless\csharp\BibliotecaProperty\obj\Debug\net8.0\BibliotecaProperty.dll
+C:\Users\aless\csharp\BibliotecaProperty\obj\Debug\net8.0\refint\BibliotecaProperty.dll
+C:\Users\aless\csharp\BibliotecaProperty\obj\Debug\net8.0\BibliotecaProperty.pdb
+C:\Users\aless\csharp\BibliotecaProperty\obj\Debug\net8.0\BibliotecaProperty.genruntimeconfig.cache
+C:\Users\aless\csharp\BibliotecaProperty\obj\Debug\net8.0\ref\BibliotecaProperty.dll

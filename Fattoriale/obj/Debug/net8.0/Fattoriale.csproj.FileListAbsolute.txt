@@ -1,0 +1,14 @@
+C:\Users\aless\csharp\Fattoriale\obj\Debug\net8.0\Fattoriale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\csharp\Fattoriale\obj\Debug\net8.0\Fattoriale.AssemblyInfoInputs.cache
+C:\Users\aless\csharp\Fattoriale\obj\Debug\net8.0\Fattoriale.AssemblyInfo.cs
+C:\Users\aless\csharp\Fattoriale\obj\Debug\net8.0\Fattoriale.csproj.CoreCompileInputs.cache
+C:\Users\aless\csharp\Fattoriale\bin\Debug\net8.0\Fattoriale.exe
+C:\Users\aless\csharp\Fattoriale\bin\Debug\net8.0\Fattoriale.deps.json
+C:\Users\aless\csharp\Fattoriale\bin\Debug\net8.0\Fattoriale.runtimeconfig.json
+C:\Users\aless\csharp\Fattoriale\bin\Debug\net8.0\Fattoriale.dll
+C:\Users\aless\csharp\Fattoriale\bin\Debug\net8.0\Fattoriale.pdb
+C:\Users\aless\csharp\Fattoriale\obj\Debug\net8.0\Fattoriale.dll
+C:\Users\aless\csharp\Fattoriale\obj\Debug\net8.0\refint\Fattoriale.dll
+C:\Users\aless\csharp\Fattoriale\obj\Debug\net8.0\Fattoriale.pdb
+C:\Users\aless\csharp\Fattoriale\obj\Debug\net8.0\Fattoriale.genruntimeconfig.cache
+C:\Users\aless\csharp\Fattoriale\obj\Debug\net8.0\ref\Fattoriale.dll

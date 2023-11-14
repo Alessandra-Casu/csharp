@@ -1,0 +1,14 @@
+C:\Users\aless\csharp\Strutture\bin\Debug\net8.0\Strutture.exe
+C:\Users\aless\csharp\Strutture\bin\Debug\net8.0\Strutture.deps.json
+C:\Users\aless\csharp\Strutture\bin\Debug\net8.0\Strutture.runtimeconfig.json
+C:\Users\aless\csharp\Strutture\bin\Debug\net8.0\Strutture.dll
+C:\Users\aless\csharp\Strutture\bin\Debug\net8.0\Strutture.pdb
+C:\Users\aless\csharp\Strutture\obj\Debug\net8.0\Strutture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\csharp\Strutture\obj\Debug\net8.0\Strutture.AssemblyInfoInputs.cache
+C:\Users\aless\csharp\Strutture\obj\Debug\net8.0\Strutture.AssemblyInfo.cs
+C:\Users\aless\csharp\Strutture\obj\Debug\net8.0\Strutture.csproj.CoreCompileInputs.cache
+C:\Users\aless\csharp\Strutture\obj\Debug\net8.0\Strutture.dll
+C:\Users\aless\csharp\Strutture\obj\Debug\net8.0\refint\Strutture.dll
+C:\Users\aless\csharp\Strutture\obj\Debug\net8.0\Strutture.pdb
+C:\Users\aless\csharp\Strutture\obj\Debug\net8.0\Strutture.genruntimeconfig.cache
+C:\Users\aless\csharp\Strutture\obj\Debug\net8.0\ref\Strutture.dll

@@ -1,0 +1,14 @@
+C:\Users\aless\csharp\BibliotecaOverride\obj\Debug\net8.0\BibliotecaOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\csharp\BibliotecaOverride\obj\Debug\net8.0\BibliotecaOverride.AssemblyInfoInputs.cache
+C:\Users\aless\csharp\BibliotecaOverride\obj\Debug\net8.0\BibliotecaOverride.AssemblyInfo.cs
+C:\Users\aless\csharp\BibliotecaOverride\obj\Debug\net8.0\BibliotecaOverride.csproj.CoreCompileInputs.cache
+C:\Users\aless\csharp\BibliotecaOverride\bin\Debug\net8.0\BibliotecaOverride.exe
+C:\Users\aless\csharp\BibliotecaOverride\bin\Debug\net8.0\BibliotecaOverride.deps.json
+C:\Users\aless\csharp\BibliotecaOverride\bin\Debug\net8.0\BibliotecaOverride.runtimeconfig.json
+C:\Users\aless\csharp\BibliotecaOverride\bin\Debug\net8.0\BibliotecaOverride.dll
+C:\Users\aless\csharp\BibliotecaOverride\bin\Debug\net8.0\BibliotecaOverride.pdb
+C:\Users\aless\csharp\BibliotecaOverride\obj\Debug\net8.0\BibliotecaOverride.dll
+C:\Users\aless\csharp\BibliotecaOverride\obj\Debug\net8.0\refint\BibliotecaOverride.dll
+C:\Users\aless\csharp\BibliotecaOverride\obj\Debug\net8.0\BibliotecaOverride.pdb
+C:\Users\aless\csharp\BibliotecaOverride\obj\Debug\net8.0\BibliotecaOverride.genruntimeconfig.cache
+C:\Users\aless\csharp\BibliotecaOverride\obj\Debug\net8.0\ref\BibliotecaOverride.dll

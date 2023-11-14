@@ -1,0 +1,14 @@
+C:\Users\aless\csharp\Condizioni\obj\Debug\net8.0\Condizioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\csharp\Condizioni\obj\Debug\net8.0\Condizioni.AssemblyInfoInputs.cache
+C:\Users\aless\csharp\Condizioni\obj\Debug\net8.0\Condizioni.AssemblyInfo.cs
+C:\Users\aless\csharp\Condizioni\obj\Debug\net8.0\Condizioni.csproj.CoreCompileInputs.cache
+C:\Users\aless\csharp\Condizioni\bin\Debug\net8.0\Condizioni.exe
+C:\Users\aless\csharp\Condizioni\bin\Debug\net8.0\Condizioni.deps.json
+C:\Users\aless\csharp\Condizioni\bin\Debug\net8.0\Condizioni.runtimeconfig.json
+C:\Users\aless\csharp\Condizioni\bin\Debug\net8.0\Condizioni.dll
+C:\Users\aless\csharp\Condizioni\bin\Debug\net8.0\Condizioni.pdb
+C:\Users\aless\csharp\Condizioni\obj\Debug\net8.0\Condizioni.dll
+C:\Users\aless\csharp\Condizioni\obj\Debug\net8.0\refint\Condizioni.dll
+C:\Users\aless\csharp\Condizioni\obj\Debug\net8.0\Condizioni.pdb
+C:\Users\aless\csharp\Condizioni\obj\Debug\net8.0\Condizioni.genruntimeconfig.cache
+C:\Users\aless\csharp\Condizioni\obj\Debug\net8.0\ref\Condizioni.dll

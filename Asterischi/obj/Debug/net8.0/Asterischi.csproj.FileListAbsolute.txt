@@ -1,0 +1,14 @@
+C:\Users\aless\csharp\Asterischi\obj\Debug\net8.0\Asterischi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\csharp\Asterischi\obj\Debug\net8.0\Asterischi.AssemblyInfoInputs.cache
+C:\Users\aless\csharp\Asterischi\obj\Debug\net8.0\Asterischi.AssemblyInfo.cs
+C:\Users\aless\csharp\Asterischi\obj\Debug\net8.0\Asterischi.csproj.CoreCompileInputs.cache
+C:\Users\aless\csharp\Asterischi\bin\Debug\net8.0\Asterischi.exe
+C:\Users\aless\csharp\Asterischi\bin\Debug\net8.0\Asterischi.deps.json
+C:\Users\aless\csharp\Asterischi\bin\Debug\net8.0\Asterischi.runtimeconfig.json
+C:\Users\aless\csharp\Asterischi\bin\Debug\net8.0\Asterischi.dll
+C:\Users\aless\csharp\Asterischi\bin\Debug\net8.0\Asterischi.pdb
+C:\Users\aless\csharp\Asterischi\obj\Debug\net8.0\Asterischi.dll
+C:\Users\aless\csharp\Asterischi\obj\Debug\net8.0\refint\Asterischi.dll
+C:\Users\aless\csharp\Asterischi\obj\Debug\net8.0\Asterischi.pdb
+C:\Users\aless\csharp\Asterischi\obj\Debug\net8.0\Asterischi.genruntimeconfig.cache
+C:\Users\aless\csharp\Asterischi\obj\Debug\net8.0\ref\Asterischi.dll
